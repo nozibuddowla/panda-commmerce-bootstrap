@@ -1,3 +1,9 @@
+.{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
 .bg-orange{
     background-color: #fceae8;
 }
@@ -21,4 +27,8 @@
 .card-btn{
     background-color: white;
     border-top: none;
+}
+.inlin-input{
+    display: inline !important;
+    width: auto !important;
 }
