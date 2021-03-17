@@ -1,0 +1,11 @@
+.orange-bg{
+    background-color: #fceae8;
+}
+.price{
+    color: #FF136F;
+}
+.custom-buy-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, 
+                                                #FF136F 100%);
+    border: #FF589B;
+}
