@@ -18,3 +18,7 @@
 #bg-shoe{
     background-color: blue;
 }
+.card-btn{
+    background-color: white;
+    border-top: none;
+}
